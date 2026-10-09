@@ -40,6 +40,9 @@ h3 { font-size: 1.6rem; }
   color: var(--clay); font-weight: 500; margin-bottom: 14px;
 }
 
+.eyebrow--pin { display: inline-flex; align-items: center; gap: 8px; color: var(--rose-deep); }
+.eyebrow--pin svg { flex: none; }
+
 /* BUTONLAR */
 .btn {
   display: inline-block; padding: 14px 32px; border-radius: 999px;
